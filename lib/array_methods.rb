@@ -1,8 +1,6 @@
-def using_include(array, element)
-array = boy_names
-boy_names.include?("Charlie")
+def using_include(array,element)
+  array.include?(element)
 end
-using_include(["Tim", "Phil", "Jacob"], "Charlie")
 
 
 # def using_sort(array)
