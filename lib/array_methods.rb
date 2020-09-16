@@ -1,6 +1,6 @@
-# def using_include(array,element)
-#   array.include?(element)
-# end
+def using_include(array,element)
+  array.include?(element)
+end
 
 
 # def using_sort(array)
@@ -16,7 +16,7 @@
 # end
 
 def using_last(array,element)
-array.last
+  array.last
 end
 
 # def using_size(array)
