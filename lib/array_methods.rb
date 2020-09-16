@@ -2,7 +2,7 @@ def using_include(array, element)
 array = boy_names
 boy_names.include?("Charlie")
 end
-using_include(["Tim", "Phil", "Jacob"])
+using_include(["Tim", "Phil", "Jacob"], "Charlie")
 
 
 # def using_sort(array)
