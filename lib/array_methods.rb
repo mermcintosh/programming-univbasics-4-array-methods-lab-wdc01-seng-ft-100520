@@ -6,9 +6,9 @@ def using_sort(array)
   array.sort
 end
 
-# def using_reverse(array)
+def using_reverse(array)
 
-# end
+end
 
 # def using_first(array)
 
